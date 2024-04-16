@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className="navbar">
-        <img src='../public\assets\Website_Category_banners_13.png'/>
+        <img src='../assets\Website_Category_banners_13.png'/>
       </div>
       <LocationSearch />
     </div>
